@@ -11,16 +11,18 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="mailto:wmohit301@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="45" style="margin: 0 12px;" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wmohit301@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/mohit-wankhade-a9037b205" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="margin: 0 12px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/wmohit301/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" style="margin: 0 12px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
   </a>
 </p>
 
