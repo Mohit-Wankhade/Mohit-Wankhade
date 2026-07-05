@@ -8,16 +8,19 @@
   I build practical AI systems focused on <b>RAG</b>, <b>LLM applications</b>, <b>NLP workflows</b>, and <b>production-ready backend development</b>.
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:wmohit301@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="wmohit301@gmail.com" height="30" width="40" />
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="mailto:wmohit301@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="35" width="45" style="margin: 0 12px;" />
   </a>
-  <a href="https://linkedin.com/in/mohit-wankhade-a9037b205" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-wankhade" height="30" width="40" />
+
+  <a href="https://linkedin.com/in/mohit-wankhade-a9037b205" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="margin: 0 12px;" />
   </a>
-  <a href="https://leetcode.com/u/wmohit301/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wmohit301" height="30" width="40" />
+
+  <a href="https://leetcode.com/u/wmohit301/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" style="margin: 0 12px;" />
   </a>
 </p>
 
