@@ -8,7 +8,6 @@
   I build practical AI systems focused on <b>RAG</b>, <b>LLM applications</b>, <b>NLP workflows</b>, and <b>production-ready backend development</b>.
 </p>
 
-<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wmohit301@gmail.com" target="_blank">
