@@ -8,15 +8,16 @@
   I build practical AI systems focused on <b>RAG</b>, <b>LLM applications</b>, <b>NLP workflows</b>, and <b>production-ready backend development</b>.
 </p>
 
-<p>
-  <a href="mailto:wmohit301@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-wmohit301%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:wmohit301@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="wmohit301@gmail.com" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mohit-wankhade-a9037b205">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohit%20Wankhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/mohit-wankhade-a9037b205" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-wankhade" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/wmohit301/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-wmohit301-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <a href="https://leetcode.com/u/wmohit301/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wmohit301" height="30" width="40" />
   </a>
 </p>
 
