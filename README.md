@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=170&section=header&text=Mohit%20Kumar%20Wankhade&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:7C3AED&height=180&section=header&text=Mohit%20Kumar%20Wankhade&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>AI/ML Engineer • GenAI Developer • Backend AI Applications</h3>
 
 <p>
-  I build practical AI systems focused on <b>RAG, LLM applications, NLP, FastAPI backends, and production-ready developer tools</b>.
+  I build practical AI systems focused on <b>RAG</b>, <b>LLM applications</b>, <b>NLP workflows</b>, and <b>production-ready backend development</b>.
 </p>
 
 <p>
   <a href="mailto:wmohit301@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-wmohit301%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/mohit-wankhade-a9037b205">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohit%20Wankhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/wmohit301/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-wmohit301-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </p>
 
@@ -24,16 +24,25 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/goal.png"/> Current Focus
+## 👨‍💻 About Me
 
-- Building **production-style GenAI and RAG systems**
-- Improving retrieval quality with **hybrid search, reranking, memory, and source attribution**
-- Developing deployable AI backends using **FastAPI, MongoDB, Redis, Docker, and cloud tools**
-- Strengthening **DSA, backend engineering, and system design** for AI/ML roles
+- B.Tech graduate in **Artificial Intelligence & Robotics**
+- Interested in **GenAI engineering, applied machine learning, RAG systems, and backend AI development**
+- Building portfolio projects around **FastAPI, LangChain, vector search, MongoDB, Redis, Docker, and cloud workflows**
+- Focused on creating projects that are useful beyond demos: **clean APIs, retrieval pipelines, memory, caching, logging, and deployable architecture**
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/rocket.png"/> Featured Projects
+## 🚀 Current Focus
+
+- Building **production-style GenAI and RAG applications**
+- Improving retrieval quality with **hybrid search, reranking, memory, and source attribution**
+- Developing deployable AI backends using **FastAPI, MongoDB, Redis, Docker, and cloud tools**
+- Strengthening **DSA, backend engineering, and system design**
+
+---
+
+## 🌟 Featured Projects
 
 <table>
 <tr>
@@ -42,37 +51,57 @@
 ### 🧠 ChatDoc Enterprise RAG
 Production-style GenAI chatbot with PDF RAG, GitHub repository RAG, hybrid retrieval, reranking, memory, caching, and source attribution.
 
-**Tech Stack:**  
-`Python` `FastAPI` `LangChain` `FAISS` `BM25` `MongoDB` `Redis`
+**Stack:** `Python` `FastAPI` `LangChain` `FAISS` `BM25` `MongoDB` `Redis`
+
+<!-- Replace the link below after uploading the repo -->
+<a href="https://github.com/Mohit-Wankhade">
+  <img alt="Upcoming Project" src="https://img.shields.io/badge/Repo-Upload%20ChatDoc%20Repo%20Here-111827?style=flat-square&logo=github&logoColor=white">
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [CodeBuddy AI](https://github.com/Mohit-Wankhade/codebuddy-ai-dev-assistant)
+### 🤖 <a href="https://github.com/Mohit-Wankhade/codebuddy-ai-dev-assistant">CodeBuddy AI</a>
 Multi-model AI development assistant that generates code, documentation, explanations, and GitHub references from natural language prompts.
 
-**Tech Stack:**  
-`FastAPI` `LangChain` `DeepSeek` `JavaScript` `GitHub API`
+**Stack:** `FastAPI` `LangChain` `DeepSeek` `JavaScript` `GitHub API`
+
+<p>
+  <a href="https://github.com/Mohit-Wankhade/codebuddy-ai-dev-assistant">
+    <img alt="Repo" src="https://img.shields.io/badge/Repository-CodeBuddy_AI-1f2937?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mohit-Wankhade/codebuddy-ai-dev-assistant?style=flat-square">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mohit-Wankhade/codebuddy-ai-dev-assistant?style=flat-square">
+</p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 [NCL Quarter Allotment System](https://github.com/Mohit-Wankhade/ncl-quarter-allotment-system)
-Web application developed during NCL internship for employee quarter allotment with authentication, priority logic, sessions, and AJAX updates.
+### 🏢 <a href="https://github.com/Mohit-Wankhade/ncl-quarter-allotment-system">NCL Quarter Allotment System</a>
+Internship project built at NCL to automate employee quarter allotment with registration, authentication, priority-based login, session handling, and AJAX updates.
 
-**Tech Stack:**  
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+**Stack:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+<p>
+  <a href="https://github.com/Mohit-Wankhade/ncl-quarter-allotment-system">
+    <img alt="Repo" src="https://img.shields.io/badge/Repository-NCL_Quarter_Allotment-1f2937?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Mohit-Wankhade/ncl-quarter-allotment-system?style=flat-square">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Mohit-Wankhade/ncl-quarter-allotment-system?style=flat-square">
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 FinMAC / FinCIMM Research Work
-Multimodal complaint identification framework using textual and visual features for financial complaint analysis.
+Multimodal financial complaint identification framework using textual and visual features for complaint analysis.
 
-**Tech Stack:**  
-`Python` `NLP` `RoBERTa` `ResNet` `BART` `Transformers`
+**Stack:** `Python` `NLP` `RoBERTa` `ResNet` `BART` `Transformers`
+
+<img alt="Research Focus" src="https://img.shields.io/badge/Focus-NLP%20%7C%20Multimodal%20Learning%20%7C%20Applied%20AI-4F46E5?style=flat-square">
 
 </td>
 </tr>
@@ -80,17 +109,19 @@ Multimodal complaint identification framework using textual and visual features 
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/maintenance.png"/> Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 <p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="44" /></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="44" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="44" /></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="44" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="44" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="44" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="44" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="46" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="46" alt="JavaScript" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="46" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="46" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="46" alt="CSS" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="46" alt="MySQL" /></a>
 </p>
 
 ### AI / ML / GenAI
@@ -104,60 +135,98 @@ Multimodal complaint identification framework using textual and visual features 
 
 ### Databases / Tools / Deployment
 <p>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="44" /></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="44" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="44" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="44" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="44" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="44" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="46" alt="MongoDB" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="46" alt="Redis" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="46" alt="Docker" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 </p>
+
+</div>
 
 > All icons above are clickable and linked to official docs or product pages.
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/combo-chart.png"/> GitHub Snapshot
+## 🧩 LeetCode Highlights
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohit-Wankhade&show_icons=true&hide=issues,prs,contribs&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&custom_title=Repository%20Snapshot" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Wankhade&layout=compact&hide=html,css,jupyter%20notebook&langs_count=6&theme=github_dark&hide_border=true" />
-</div>
 
+<a href="https://leetcode.com/u/wmohit301/">
+  <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode_Profile-wmohit301-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<br><br>
+
+<!-- Best-badge style showcase: competitive + annual badges only -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=wmohit301&theme=github-dark&border=no-border&filter=comp&limit=6" alt="LeetCode Competitive Badges" />
 <br>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=wmohit301&theme=github-dark&border=no-border&filter=annual&limit=6" alt="LeetCode Annual Badges" />
 
-<div align="center">
-  <a href="https://github.com/Mohit-Wankhade/codebuddy-ai-dev-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Wankhade&repo=codebuddy-ai-dev-assistant&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mohit-Wankhade/ncl-quarter-allotment-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-Wankhade&repo=ncl-quarter-allotment-system&theme=github_dark&hide_border=true" />
-  </a>
+<br><br>
+
+<a href="https://leetcode.com/u/wmohit301/">
+  <img src="https://leetcard.jacoblin.cool/wmohit301?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats Card" />
+</a>
+
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/document.png"/> Professional Summary
+## 📌 GitHub Portfolio
 
-I am focused on building AI applications that go beyond demos — systems with clean APIs, structured retrieval, explainable outputs, memory, caching, logging, and deployable architecture.
+<div align="center">
 
-My goal is to work on products where **AI engineering, backend development, and applied machine learning** come together.
+<a href="https://github.com/Mohit-Wankhade/codebuddy-ai-dev-assistant">
+  <img alt="CodeBuddy Repo Badge" src="https://img.shields.io/badge/Featured-CodeBuddy_AI-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/Mohit-Wankhade/ncl-quarter-allotment-system">
+  <img alt="NCL Repo Badge" src="https://img.shields.io/badge/Featured-NCL_Quarter_Allotment-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CodeBuddy AI
+A full-stack AI code generation assistant with FastAPI backend APIs, prompt-based generation, GitHub reference search, and a JavaScript frontend.
+
+**Highlights**
+- Natural language to code generation
+- Documentation, example usage, and explanation output
+- GitHub repository reference discovery
+- Clean frontend-backend integration
+
+</td>
+<td width="50%" valign="top">
+
+### NCL Quarter Allotment System
+A PHP-MySQL application built during internship to streamline quarter allocation based on user registration and priority-based logic.
+
+**Highlights**
+- Employee registration and authentication
+- Priority-driven login flow
+- Interactive quarter selection
+- AJAX-based database updates
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/trophy.png"/> Highlights
+## 📄 Professional Summary
 
-- 🎓 **B.Tech in Artificial Intelligence & Robotics**
-- 🔬 **NLP and multimodal research experience** through internship work
-- 🏢 Built a real internship project: **NCL Quarter Allotment System**
-- ⚙️ Developing portfolio-grade **GenAI and RAG applications**
-- 💻 Continuously improving **DSA and backend engineering skills**
+I am focused on building AI applications that combine **applied machine learning**, **backend engineering**, and **product-oriented development**.  
+My work centers on creating structured, usable systems rather than one-off demos.
 
 ---
 
 <div align="center">
-
-### Let's Connect
 
 <a href="mailto:wmohit301@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-wmohit301%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
@@ -168,6 +237,6 @@ My goal is to work on products where **AI engineering, backend development, and 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0B1220&height=120&section=footer" />
 
 </div>
