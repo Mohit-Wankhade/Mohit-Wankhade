@@ -152,12 +152,12 @@ Multimodal financial complaint identification framework using textual and visual
 
 ## 🧩 LeetCode Highlights
 
+<div align="center">
 
+<a href="https://leetcode.com/u/wmohit301/">
+  <img alt="LeetCode Profile" src="https://img.shields.io/badge/LeetCode_Profile-wmohit301-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 
-<br><br>
-
-<!-- Best-badge style showcase: competitive + annual badges only -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=wmohit301&theme=github-dark&border=no-border&filter=comp&limit=6" alt="LeetCode Competitive Badges" />
 <br>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=wmohit301&theme=github-dark&border=no-border&filter=annual&limit=6" alt="LeetCode Annual Badges" />
 
